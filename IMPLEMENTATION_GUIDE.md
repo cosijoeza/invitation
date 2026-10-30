@@ -36,3 +36,5 @@ Before delivery:
 - check browser console errors and broken assets;
 - test keyboard navigation;
 - verify that layouts continue to work with the reduced-motion setting.
+
+The implementation uses direct public demo image URLs for visual reference. Replace them with locally licensed assets before deployment.

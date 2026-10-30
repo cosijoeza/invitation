@@ -38,3 +38,7 @@ Then visit `http://localhost:8000`.
 - Store media files in `assets/`.
 
 See `IMPLEMENTATION_GUIDE.md` for maintenance details.
+
+## Reference parity
+
+The page reproduces the reference structure and copy from the Nicdark Wedding Day demo. Media is loaded from the reference site's public asset URLs and should be replaced by licensed local assets before production use.
